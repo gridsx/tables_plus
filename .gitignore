@@ -1,1 +1,5 @@
 electron-zip/
+node_modules/
+tables+-darwin-x64/
+tables+-darwin-arm64/
+bin/
